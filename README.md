@@ -1,8 +1,8 @@
 ## Dynamic Clock
-![Animation](https://github.com/bbluechip/voltran/blob/master/images/Animation.gif)
+![Animation](https://github.com/bbluechip/Dynamic-Clock/blob/master/Animation.gif)
 
 
-👉[Click here to see the page](https://bbluechip.github.io/voltran/)
+👉[Click here to see the page](https://bbluechip.github.io/Dynamic-Clock/)
 
 ## Project Skeleton 
 
